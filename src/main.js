@@ -132,7 +132,7 @@ document.querySelector('#app').innerHTML = `
         <div class="services-grid">
           <div class="service-card">
             <div class="service-image">
-              <img src="public/professionals-presenting-financial-data-meeting.jpg" alt="Programme Management" />
+              <img src="professionals-presenting-financial-data-meeting.jpg" alt="Programme Management" />
             </div>
             <div class="service-content">
               <h3>Programme Management</h3>
@@ -142,7 +142,7 @@ document.querySelector('#app').innerHTML = `
           
           <div class="service-card">
             <div class="service-image">
-              <img src="public/group-multiethnic-busy-people-working-office.jpg" alt="Cost Planning" />
+              <img src="group-multiethnic-busy-people-working-office.jpg" alt="Cost Planning" />
             </div>
             <div class="service-content">
               <h3>Cost Planning</h3>
@@ -162,7 +162,7 @@ document.querySelector('#app').innerHTML = `
           
           <div class="service-card">
             <div class="service-image">
-              <img src="public/aerial-view-cityscape.jpg" alt="Water Sector Planning" />
+              <img src="aerial-view-cityscape.jpg" alt="Water Sector Planning" />
             </div>
             <div class="service-content">
               <h3>Water Sector Planning</h3>
@@ -172,7 +172,7 @@ document.querySelector('#app').innerHTML = `
           
           <div class="service-card">
             <div class="service-image">
-              <img src="public/researchers-looking-alternative-energy-souces.jpg" alt="Renewable Energy Planning" />
+              <img src="researchers-looking-alternative-energy-souces.jpg" alt="Renewable Energy Planning" />
             </div>
             <div class="service-content">
               <h3>Renewable Energy Planning</h3>
@@ -182,7 +182,7 @@ document.querySelector('#app').innerHTML = `
           
           <div class="service-card">
             <div class="service-image">
-              <img src="public/millennial-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwork-small-modern-night-office.jpg" alt="Infrastructure Planning" />
+              <img src="millennial-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwork-small-modern-night-office.jpg" alt="Infrastructure Planning" />
             </div>
             <div class="service-content">
               <h3>Infrastructure Planning</h3>
