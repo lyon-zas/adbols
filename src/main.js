@@ -182,7 +182,7 @@ document.querySelector('#app').innerHTML = `
           
           <div class="service-card">
             <div class="service-image">
-              <img src="millennial-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwork-small-modern-night-office.jpg" alt="Infrastructure Planning" />
+              <img src="/millennial-asia-businessmen-businesswomen-meeting-brainstorming-ideas-about-new-paperwork-project-colleagues-working-together-planning-success-strategy-enjoy-teamwork-small-modern-night-office.jpg" alt="Team Collaboration and Planning" />
             </div>
             <div class="service-content">
               <h3>Infrastructure Planning</h3>
